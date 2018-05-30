@@ -27,4 +27,4 @@
   点击开始，然后关闭屏幕就可以了，不需要一直亮屏幕。（建议保留钉钉盒子在前台，就是点击开始锁屏就可以了，就不要操作了）
   
   
-点击下载(./apk/app.apk)
+点击下载(https://dingdinghezi.github.io/apk/app.apk)
