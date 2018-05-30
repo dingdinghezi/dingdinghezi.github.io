@@ -19,8 +19,8 @@
  ---->点击设置时间
   可以设置任意时间，可以添加多次，方便自己的忘记打卡。
   可以设置签到和签退时间，没有先手顺序，都是根据时间点进行运行
-  ![image](https://github.com/dingdinghezi/dingdinghezi.github.io/blob/master/imgs/time1.jpg)
-  ![image](https://github.com/dingdinghezi/dingdinghezi.github.io/blob/master/imgs/time2.jpg)
+  ![image](./imgs/time1.jpg)
+  ![image](./imgs/time2.jpg)
   
   
 3：点击开始
