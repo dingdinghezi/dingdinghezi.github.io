@@ -13,7 +13,7 @@
 ##使用说明：
 1：开启辅助服务，找到钉钉盒子开启即可
   ---> 点击设置辅助服务
-![image](https://github.com/dingdinghezi/dingdinghezi.github.io/blob/master/imgs/main.jpg)
+![image](./imgs/main.jpg)
 
 2：设置时间
  ---->点击设置时间
